@@ -1,5 +1,5 @@
 <img align="center" alt="Coding" height="150" width="4000" boder-radius="20" src="https://i.giphy.com/media/4N3Mqhl8JRyYLapZgt/giphy.webp">
-<h1 align="center">👋, I'm CHALLA SUJITH 🧑‍💻</h1>
+<h1 align="center">👋 I'm CHALLA SUJITH 🧑‍💻</h1>
 <h3 align="center">A passionate FRONTEND-DEVELOPER from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujith-challa&label=Profile%20views&color=0e75b6&style=flat" alt="sujith-challa" /> </p>
