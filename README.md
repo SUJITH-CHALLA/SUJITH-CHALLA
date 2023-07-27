@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on : **Vision Based Robot Object Sorting Manuplator**
   
-- 🧑‍⚖️ Curently Purshuing : Pre-Final Year
+- 🧑‍⚖️ Curently Purshuing : **Pre-Final Year**
   
 - 🌱 I’m currently learning : **React, MERN, Full Stack Web development**
 
