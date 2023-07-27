@@ -1,22 +1,28 @@
-<img align="center" alt="Coding" height="150" width="4000" boder-radius="20" src="https://i.pinimg.com/originals/4e/9e/1f/4e9e1f5a41b738e3066d135da871a46c.gif">
-<h1 align="center">Hi 👋, I'm CHALLA SUJITH</h1>
+<img align="center" alt="Coding" height="150" width="4000" boder-radius="20" src="https://i.giphy.com/media/4N3Mqhl8JRyYLapZgt/giphy.webp">
+<h1 align="center">Hi 👋, I'm CHALLA SUJITH 🧑‍💻</h1>
 <h3 align="center">A passionate FRONTEND-DEVELOPER from India</h3>
-<img align="right" alt="Coding" width="400" boder-radius="20" src="https://cdn.dribbble.com/users/3484830/screenshots/16787618/media/b134e73ef667b926c76d8ce3f962dba2.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujith-challa&label=Profile%20views&color=0e75b6&style=flat" alt="sujith-challa" /> </p>
 
 <p align="left"> <a href="https://twitter.com/sujith_challa" target="blank"><img src="https://img.shields.io/twitter/follow/sujith_challa?logo=twitter&style=for-the-badge" alt="sujith_challa" /></a> </p>
+<img align="right" alt="Coding" width="200" border-radius="2000" src="https://cdn.dribbble.com/users/3484830/screenshots/16787618/media/b134e73ef667b926c76d8ce3f962dba2.gif">
+
 
 - 🔭 I’m currently working on : **Vision Based Robot Object Sorting Manuplator**
-
+  
+- 🧑‍⚖️ Curently Purshuing : Pre-Final Year
+  
 - 🌱 I’m currently learning : **React, MERN, Full Stack Web development**
 
 - 💬 Ask me about : **Frontend, Python**
 
-- 📫 How to reach me : **sujithchalla41@gmail.com**
+- 📫 Reach me : **sujithchalla41@gmail.com**
 
-- 📄 Know about my experiences : https://drive.google.com/file/d/1AdjW6s5nBObuLJsL-tXwHORxywcIyOV3/view?usp=drive_link
+- 📄 Know about my experiences : https://tinyurl.com/2wk8t968
 
-- ⚡ Fun fact **I think I Am funny.**
+- ⚡ Fun fact : **I think I am funny.**
+
+<img align="right" alt="Coding" width="200" border-radius="2000" src="https://cdn.dribbble.com/users/2008861/screenshots/15526868/media/75d00bc49c493701ec1a0cd51da86a8e.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
