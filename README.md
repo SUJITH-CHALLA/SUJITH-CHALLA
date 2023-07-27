@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" height="200" width="4000" boder-radius="20" src="https://i.pinimg.com/originals/4e/9e/1f/4e9e1f5a41b738e3066d135da871a46c.gif">
+<img align="center" alt="Coding" height="150" width="4000" boder-radius="20" src="https://i.pinimg.com/originals/4e/9e/1f/4e9e1f5a41b738e3066d135da871a46c.gif">
 <h1 align="center">Hi 👋, I'm CHALLA SUJITH</h1>
 <h3 align="center">A passionate FRONTEND-DEVELOPER from India</h3>
 <img align="right" alt="Coding" width="400" boder-radius="20" src="https://cdn.dribbble.com/users/3484830/screenshots/16787618/media/b134e73ef667b926c76d8ce3f962dba2.gif">
